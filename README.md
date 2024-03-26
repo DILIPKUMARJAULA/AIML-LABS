@@ -4,4 +4,4 @@
 
 [Lab3](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab03-AIML.ipynb)
 
-[lab6](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab04-AIML.ipynb)
+[lab4](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab04-AIML.ipynb)
