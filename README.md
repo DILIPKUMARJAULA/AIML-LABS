@@ -13,3 +13,5 @@
 [lab7](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab_07.ipynb)
 
 [Lab8](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab_08.ipynb)
+
+[Lab9](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab_09.ipynb)
