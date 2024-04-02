@@ -9,3 +9,6 @@
 [Lab5](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab05-AIML.ipynb)
 
 [lab6](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab06-AIML.ipynb)
+
+[lab7](https://github.com/DILIPKUMARJAULA/AIML-LABS/blob/main/Lab_07.ipynb)
+
